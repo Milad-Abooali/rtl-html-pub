@@ -1,0 +1,55 @@
+@import url("fonts.css");
+body{
+font-family:codeboxFA;
+}
+.navbar-nav > li,
+#about .progress .progress-bar-danger
+{
+float: right;
+}
+.navbar-default .navbar-nav li a{
+font-size: 15px;
+}
+.flexslider .btn{
+font-size: 20px;
+padding: 6px 10px 10px 10px;
+}
+#service .media .fa{
+margin-right: unset;
+margin-left: 20px;
+}
+#service .media,
+.progressRtl
+{
+direction: rtl;
+}
+.alignRight,
+#about span,
+.footerRtl{
+text-align: right;
+direction: rtl;
+}
+small{
+font-size: 90%;
+padding-right: 5%;
+}
+.dirRight p,
+.title
+{
+direction:rtl;
+}
+.plan {
+font-family:tahoma;
+}
+input[type=email]{
+text-align:left;
+direction:ltr
+}
+.copyRight{
+font-family:tahoma;
+}
+/*
+### template name : solution
+### version : 1.0
+### relase date : 24/04/2017
+*/

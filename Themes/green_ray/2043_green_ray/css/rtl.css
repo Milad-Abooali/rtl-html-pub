@@ -1,0 +1,66 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a{font-family:codeboxFA !important;}
+a{text-decoration: none !important;}
+/*
+###################
+### Float Right ###
+###################
+*/
+ul.navigation li,
+.float_l,
+#social_box a
+{float:right;}
+
+/*
+###################
+### Float Left ####
+###################
+*/
+.float_r
+{float:left;}
+/*
+########################
+### Text Align Right ###
+########################
+*/
+#content{
+direction:rtl;
+text-align:justify;
+}
+
+/*
+#############
+### Others ###
+#############
+*/
+.service_one,
+.service_two,
+.service_three,
+.service_four,
+.service_five
+{
+background-position-x: 100% !important;
+padding-left: unset !important;
+padding-right:30px;
+}
+.gallery_box img{
+float: right;
+margin: 3px 0px 0 29px;
+}
+#gallery_container{
+padding-left: 40px;
+padding-right: unset;
+}
+#footer_left{
+font-family: Tahoma, Geneva, sans-serif;
+}
+/*
+### Template name : green ray
+### Version : 1.0
+### Relase date : 07/june/2017
+*/

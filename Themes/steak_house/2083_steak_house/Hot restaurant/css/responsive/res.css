@@ -1,0 +1,63 @@
+/**************************/
+@media only screen and (max-width: 1024px) {
+#menu .media-object span.menu-price{
+top: 54%;
+right: 28%;
+}
+.joinusres{
+height: 213px;
+}
+#team .join-team .btn{
+margin-top: -5px;
+}
+}
+/**************************/
+@media only screen and (max-width: 768px) {
+.bellres{
+width: 100%;
+}
+#menu .media-object span.menu-price{
+top: 62.5%;
+right: 17%;
+}
+.joinusres{
+height: 346px;
+}
+#team .join-team .btn{
+margin-top: 45px;
+}
+#copyright p{
+text-align: center;
+}
+}
+/**************************/
+@media only screen and (max-width: 425px) {
+h2,
+h3,
+p,
+.ensafShiveh h2,
+.animated > h3
+{
+text-align: center !important;
+}
+#menu .media-object span.menu-price{
+top: 49%;
+right: 71.5%;
+}
+}
+/**************************/
+@media only screen and(max-width: 375px){
+#menu .media-object span.menu-price{
+top: 45%;
+right: 67%;
+}
+}
+/**************************/
+@media only screen and (max-width: 320px){
+#menu .media-object span.menu-price{
+top: 39%;
+right: 61%;
+}
+
+}
+/**************************/

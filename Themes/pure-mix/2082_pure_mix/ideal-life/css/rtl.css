@@ -1,0 +1,76 @@
+@import url("fonts.css");
+body,h1,h2,h3,h4,h5,h6,p,ul,li,a,div,
+blockquote,.row p
+{
+letter-spacing: unset !important;
+font-weight: unset !important;
+}
+body,.row p{
+font-family:codeboxFA;
+}
+.filter-wrapper,
+#blog .post-format
+{
+direction:rtl;
+}
+h1,h3,p,blockquote,#about blockquote{
+text-align: justify;
+direction: rtl;
+}
+.copyright{
+text-align:center;
+font-family:tahoma !important;
+}
+.header-thumb h1,
+.header-thumb h3,
+#contact input,
+.contact-submit > #submit
+{
+text-align:center;
+}
+input, textarea,
+.post-format {
+text-align:right;
+}
+input[type=email]{
+text-align:left;
+direction:ltr
+}
+.media > .pull-left,
+#blog .blog-thumb .btn
+{
+float: right !important;
+}
+.row p,
+.media-heading
+{
+margin-right: 10px;
+}
+ul .social-icon{
+font-family: unset;
+}
+.media-body{
+text-align: right;
+}
+.media-body >.media-heading,
+.media-body > h5,
+.media-body > p
+{
+margin-right: 20px;
+}
+.contact-submit{
+width: 15%;
+float: right;
+}
+#rightDivProject,
+#leftDivProject
+{
+float: right;
+text-align: right;
+direction: rtl;
+}
+/*
+### template name : ideal life
+### version : 1.0
+### relase date : 17/04/2017
+*/

@@ -1,0 +1,57 @@
+@import url("fonts.css");
+body,h1,h2,h3,h4,h5,h6,p,span{
+font-family:codeboxFA;
+letter-spacing:unset !important;
+}
+#home .btn,
+.navbar-default .navbar-nav li a{
+font-size: 13px;
+}
+.navbar-nav > li,
+.contactRtl{
+float:right;
+}
+#about .about-des,
+input,textarea{
+text-align: right;
+direction: rtl;
+}
+input[type="email"]{
+
+text-align:left;
+direction:ltr;
+}
+input[type="submit"]{
+text-align: center;
+}
+#testimonial .item,
+#blog .blog-wrapper,
+#contact .contact-detail div{
+direction: rtl;
+}
+span{
+font-size:16px;
+}
+#contact .contact-detail{
+text-align:right;
+padding: 34px 60px 34px 60px;
+}
+.textAlignRight{
+float: right;
+text-align: right;
+}
+footer p{
+text-align: justify;
+direction: rtl;
+padding-right: unset;
+margin-left: 100px;
+}
+.social-icon{
+max-width: 80px;
+float: right;
+}
+/*
+### template name : modern_town
+### version : 1.0
+### relase date : 14/may/2017
+*/

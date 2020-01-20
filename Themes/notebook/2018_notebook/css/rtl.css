@@ -1,0 +1,68 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a{font-family:codeboxFA !important;}
+#footer_left{font-family: Tahoma, Geneva, sans-serif;}
+
+
+/*
+###################
+### Float Right ###
+###################
+*/
+.float_l{
+float:right;
+}
+
+
+/*
+###################
+### Float Left ###
+###################
+*/
+.float_r{
+float:left;
+}
+
+
+/*
+########################
+### Text Align Right ###
+########################
+*/
+ul.navigation li,
+#content,
+ul.navigation a
+{
+direction:rtl;
+text-align:justify;
+}
+
+
+/*
+#############
+### Others ###
+#############
+*/
+ul.navigation a{padding: 12px 30px 0 20px;}
+.service_one,
+.service_two,
+.service_three,
+.service_four,
+.service_five
+{
+background-position-x: 100% !important;
+}
+.service_list li a{
+padding: 0 30px 0 0;
+}
+
+
+/*
+### Template name : notebook
+### Version : 1.0
+### Relase date : 29/may/2017
+*/

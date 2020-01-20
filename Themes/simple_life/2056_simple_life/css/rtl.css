@@ -1,0 +1,57 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a
+{font-family:codeboxFA !important;
+letter-spacing: unset !important;
+}
+#twitter p:nth-of-type(2){
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+}
+/*
+###################
+### Float Right ###
+###################
+*/
+.float_l
+{float:right;}
+
+
+/*
+###################
+### Float Left ###
+###################
+*/
+.float_r
+{float:left;}
+
+
+/*
+########################
+### Text Align Right ###
+########################
+*/
+#tooplate_main{
+direction:rtl;
+text-align:justify;
+}
+
+
+/*
+#############
+### Others ###
+#############
+*/
+#tooplate_menu ul li a{
+padding: 0 30px 0 30px;
+width: 100px;
+text-align: center;
+}
+/*
+### Template name : notebook
+### Version : 1.0
+### Relase date : 29/may/2017
+*/

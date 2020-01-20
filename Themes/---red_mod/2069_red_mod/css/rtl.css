@@ -1,0 +1,82 @@
+@import url("fonts.css");
+/***font***/
+body,a,h1,h2,h3,h4,h5,h6{
+font-family:codeboxFA !important;
+}
+a{
+text-decoration: none !important;
+}
+
+/***float right***/
+#top_menu li,
+.ddsmoothmenu ul li,
+.floatRightRtl,
+.img_fl,
+.col_5,
+.col_25,
+.post_meta span,
+.pagging ul li,
+ul.list_bullet li
+{
+float: right;
+}
+
+
+/***font size***/
+.news_list p,.content_mb_60 p{
+font-size: 13px;
+}
+
+
+/***text-align***/
+h2,
+.textAlignRighRtl,
+.content_mb_60 p,
+.ddsmoothmenu ul li ul li a,
+.col_5,
+.col_25,
+.right,
+.left,
+.col_3,
+.col_2{
+text-align: justify;
+direction: rtl;
+}
+/***textalign-center***/
+
+.col_4 p{
+direction: rtl;
+text-align: center;
+}
+
+/***other***/
+.news_list{
+margin-left: 50px;
+}
+a.more,
+{
+margin-right: 20px;
+}
+.post_meta span{
+margin-right: unset;
+}
+.pagging{
+width: 290px;
+margin: 0 auto;
+}
+.ddsmoothmenu ul{
+margin: 0 auto;
+max-width: 610px;
+}
+ul.list_bullet li{
+background: none;
+list-style-type: decimal-leading-zero;
+}
+.img_fl{
+margin-left: 10px;
+}
+/*
+### template name : red mod
+### version : 1.0
+### relase date : 23/may/2017
+*/

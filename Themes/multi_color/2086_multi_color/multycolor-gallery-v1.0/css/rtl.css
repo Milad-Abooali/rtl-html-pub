@@ -1,0 +1,36 @@
+@import url("fonts.css");
+body{
+font-family:codeboxFA;
+}
+.tm-img-gallery-info-container{
+max-width: none;
+text-align: right;
+direction: rtl;
+}
+.navbar-nav{
+direction: rtl;
+}
+.grid-item{
+float: right;
+direction: rtl;
+}
+.tm-copyright-text{
+font-family: tahoma;
+font-size: 12px;
+}
+.tm-text-title,
+.tm-contact-info
+{
+text-align: right;
+direction:rtl;
+}
+.tm-text{
+text-align: justify;
+direction: rtl;
+}
+input,textarea{
+text-align: right;
+}
+input[type="email"]{
+text-align:left;
+}

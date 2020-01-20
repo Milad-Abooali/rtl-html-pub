@@ -1,0 +1,50 @@
+@import url("fonts.css");
+body{
+font-family:codeboxFA;
+}
+.site-title,
+.sigmano{
+text-align: right;
+float: right;
+}
+.navbar-nav .nav-item,
+.floatrightRtl{
+float: right;
+}
+.main-menu{
+margin-left: -512px;
+}
+.sigma-home p,
+.sigma-content p,
+.sigma-section-header p,
+.checkbox label
+{
+direction: rtl;
+}
+.modal-title{
+text-align: right;
+margin-right: 50px;
+}
+h2,input,textarea,option,#budget{
+text-align:right;
+}
+.checkbox label input:only-child{
+margin-left: 5px;
+}
+.fa-envelope-o,
+.fa-phone
+{
+float: left;
+}
+.leftedRtl{
+text-align:left;
+font-family: 'Open Sans', sans-serif;
+}
+.text-center h2{
+text-align: center;
+}
+/*
+### template name : sigma
+### version : 1.0
+### relase date : 04/may/2017
+*/

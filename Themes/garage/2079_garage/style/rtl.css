@@ -1,0 +1,125 @@
+@import url("fonts.css");
+body,h1,h2,h3,h4,h5,h6,a,ul,li,input,p,button,label,
+.form-control .searchform, .sr-only, .sortby,
+#btnRM, #btnRM2,
+li p
+{
+font-family:codeboxFA !important;
+letter-spacing: unset !important;
+}
+p{
+direction:rtl;
+}
+/***********navbar*********/
+#navbarontop  li{
+float: right;
+}
+#navbarontop{
+float: right;
+direction: rtl;
+}
+/*********End navbar*********/
+.givusacall{
+font-size: 14px;
+}
+.carousel-caption{
+top: 35%;
+right: 15%;
+left:auto;
+text-align:right;
+direction:rtl;
+}
+.carousel-caption h2{
+text-align:right;
+font-size: 48px;
+}
+.carousel-caption p{
+line-height: 25px;
+font-size: 17px;
+}
+.navbarborder,
+.navbarborder > li{
+float: right;
+}
+.navbar-left{
+float:right !important;
+}
+.searchtxt{
+text-align: right;
+}
+li p,
+.simpletxt > h4
+{
+direction: rtl;
+}
+.searchbutton{
+padding-top: 15px;
+}
+.featurecontant > h1,
+#readmore > h1,
+#readmore2 > h1
+{
+font-size: 25px;
+}
+.featurecontant > p,
+#readmore > p,
+#readmore2 > p
+{
+font-size: 14px;
+}
+.nav-tabs > li{
+float: right;
+text-align: right;
+direction: rtl;
+}
+.latest-navleft{
+width: 50%;
+margin: 0% auto;
+}
+.latest-navleft > li:last-child{
+padding-left: unset;
+}
+.navbar-left{
+float: none !important;
+}
+.leftside > h1{
+left: 25%;
+top: 35%;
+}
+.leftside > p{
+left: 5%;
+top: 43%;
+}
+.bottommenu > ul{
+float:none;
+width: 50%;
+padding-left: unset;
+margin: 0% auto;
+padding-right: 125px;
+}
+.nav-tabs > li{
+padding-left: 38px;
+}
+.payinUl{
+padding-right: unset !important;
+}
+.payinLi{
+padding-left: 31px !important;
+}
+.simpletxt > p{
+font-size: 12px;
+}
+.jostojoo{
+float:right !important;
+}
+input,textarea{
+text-align:right;
+}
+input[type="email"]{
+text-align:left !important;
+}
+/*
+### template name : garaj
+### version : 1.0
+### relase date : 26/04/2017
+*/

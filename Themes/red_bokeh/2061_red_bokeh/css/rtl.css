@@ -1,0 +1,62 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a{font-family:codeboxFA !important;}
+a{text-decoration:none !important;}
+#tooplate_footer{font-family: Tahoma, Geneva, sans-serif !important;}
+/*
+###################
+### Float Right ###
+###################
+*/
+.ddsmoothmenu ul li,
+#tooplate_slider_content,
+.img_fl,
+.col_3,
+.no_mb
+{float:right;}
+
+/*
+###################
+### Float Left ####
+###################
+*/
+#tooplate_slider
+{float:left;}
+
+/*
+########################
+### Direction Right ####
+########################
+*/
+#tooplate_wrapper,
+.ddsmoothmenu ul li ul li a{
+direction:rtl;
+text-align:justify;
+}
+
+/*
+#############
+### Sizes ###
+#############
+*/
+.img_fl{margin: 1px 12px 8px 8px;}
+.no_mb{width: 150px;}
+.no_mr{margin-right: 30px;}
+.col_3{width: 270px; margin: 0 0 0 30px;}
+.img_fl{margin: 12px 12px 8px 8px;}
+/*fix submenues - this class manualy added to html*/
+.fixLiRtl{
+right: 0px;
+left:unset !important;
+}
+
+
+/*
+### Template name : red bokeh
+### Version : 1.0
+### Relase date : 12/june/2017
+*/

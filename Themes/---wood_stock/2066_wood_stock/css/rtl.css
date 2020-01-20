@@ -1,0 +1,73 @@
+@import url("fonts.css");
+/***font***/
+body,h1,h2,h3,h4,h5,h6,p{
+font-family:codeboxFA!important;
+font-style: unset!important;
+}
+a{
+text-decoration:none !important;
+}
+/***float right***/
+#tooplate_menu ul li,
+.img_fl,
+.service_list img,
+.col_4,
+.col_2,
+.post_meta span,
+.pagging ul li,
+#contact_form form textarea{
+float:right;
+}
+/***float left***/
+.floatLeftRtl{
+float:left;
+}
+/***text align right***/
+.nivo-caption p,
+.col_4,
+#home_about,
+.content_wrapper,
+.post,
+.comment_list,
+.textAlignRightRtl,
+label,
+#comments{
+direction: rtl;
+text-align: justify;
+}
+/***other***/
+#tooplate_menu ul{
+margin: 0 auto;
+width: 465px;
+}
+.img_fl{
+margin: 1px 0px 8px 18px;
+}
+.service_list img{
+margin-left: 10px;
+margin-right: unset;
+}
+.fix_col_4_marginRight{
+margin: 0 0 0 45px;
+}
+.col_2{
+margin: 0 0px 0 20px;
+}
+.sidebar_link li{
+background: none !important;
+}
+.pagging ul{
+width: -webkit-fit-content;
+width: -moz-fit-content;
+width: fit-content;
+margin: 0 auto;
+}
+#contact_form form textarea{
+width: 440px;
+padding: 0;
+}
+/*
+### template name : wood stock
+### version : 1.0
+### relase date : 26/may/2017
+*/

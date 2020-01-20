@@ -1,0 +1,45 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a
+{font-family:codeboxFA !important;}
+a {text-decoration:none !important;}
+
+/*
+########################
+### Text Align Right ###
+########################
+*/
+#tooplate_content li .inner
+{
+direction:rtl;
+text-align:justify;
+}
+
+/*
+#############
+### Others ###
+#############
+*/
+#site_title h1 a{
+width: 100%;
+background: url(../images/tooplate_logo.png) no-repeat center;
+}
+#tooplate_content li ul li{background: none;}
+.social_links li a{padding: 15px 50px 0 60px !important;}
+#tooplate_content li ul.social_links li a.facebook,
+#tooplate_content li ul.social_links li a.flickr,
+#tooplate_content li ul.social_links li a.linkedin,
+#tooplate_content li ul.social_links li a.twitter,
+#tooplate_content li ul.social_links li a.yahoo,
+#tooplate_content li ul.social_links li a.youtube
+{background-position-x: 100%;}
+
+/*
+### Template name : metalic
+### Version : 1.0
+### Relase date : 04/june/2017
+*/

@@ -1,0 +1,49 @@
+@import url("fonts.css");
+body,p{
+font-family:codeboxFA;
+color:#aeaeae;
+letter-spacing:unset !important;
+}
+p{
+font-size: 15px;
+line-height: 20px;
+}
+#site_title{
+float:right;
+}
+#tooplate_header{
+background: none;
+box-shadow: 1px -2px 10px -3px #fff;
+}
+#tooplate_menu ul li{
+float: right;
+}
+#mid_left,
+#tooplate_content,
+.sb_content,
+.sb_wrapper{
+text-align: justify;
+direction: rtl;
+}
+#mid_image{
+margin-right: unset;
+}
+a.more,
+.tmo_list li a{
+text-decoration: none;
+color: #fff;
+}
+li{
+list-style-type: none;
+}
+#tooplate_footer,#tooplate_footer a{
+color: #ABABAB;
+}
+a{
+text-decoration: none !important;
+}
+/*
+### template name : studio
+### version : 1.0
+### relase date : 19/may/2017
+*/

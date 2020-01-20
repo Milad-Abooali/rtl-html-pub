@@ -1,0 +1,38 @@
+@import url("fonts.css");
+body,h1,h2,h3,h4,h5,h6,p{
+letter-spacing: unset;
+font-family:codeboxFA;
+direction:rtl;
+}
+.custom-navbar .nav li a,
+#home h3
+{
+font-size: 15px;
+}
+.floatRightRtl,
+.navbar-nav > li,
+.nav-tabs > li,
+#work .col-md-4,
+#team .col-md-3,
+.col-md-4
+{
+float:right;
+}
+#pricing .plan-one .btn,
+#pricing .plan-two .btn,
+#pricing .plan-three .btn{
+background-color: #FF851B;
+}
+input[type="email"]{
+text-align:left;
+}
+.custom-navbar .nav li a{
+color: #FFDC00;
+}
+
+
+/*
+### template name : digital_team
+### version : 1.0
+### relase date : 13/may/2017
+*/

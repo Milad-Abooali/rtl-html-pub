@@ -1,0 +1,122 @@
+@import url("fonts.css");
+body{
+font-family:codeboxFA;
+}
+.heading{
+border-right: 4px solid #10a5cd;
+text-align: right;
+border-left: none;
+}
+.desc p,
+.float-container p{
+text-align: justify;
+direction: rtl;
+}
+.london-title{
+border-right: 2px solid #19beb6;
+text-align: right;
+border-left: none;
+}
+.bottom-title{
+border-right: 2px solid #75bd29;
+text-align: right;
+border-left: none;
+}
+.copyright{
+font-family: 'Open Sans', sans-serif;
+}
+.bottom-user i,
+.banner-main-about,
+.banner-main-about-text,
+.banner-2-container,
+.aenean
+{
+-webkit-transform:scaleX(-1);
+-moz-transform:scaleX(-1);
+-ms-transform:scaleX(-1);
+-o-transform:scaleX(-1);
+transform:scaleX(-1);
+}
+.banner-main-about-text{
+text-align: right;
+direction: rtl;
+}
+.heading2{
+border-right: 4px solid #a92446;
+border-left: none;
+}
+.about_box_title{
+text-align: right;
+border-left: none;
+border-right: 2px solid #10a5cd;
+}
+.line{
+float:right;
+}
+.about_box_text,
+.proin-right-text
+{
+direction: rtl;
+text-align: justify;
+}
+.aenean{
+border-right: 5px solid #df9801;
+border-left: none;
+padding-right: 10px;
+text-align: right;
+}
+.floatRight{
+float:right;
+}
+.floatLeft{
+float:left;
+}
+.about-last-container{
+display: inline;
+}
+.info > li{
+text-align: right;
+}
+.info-nav-container{
+margin: 0 0 0 3%;
+}
+.proin-title{
+text-align: right;
+border-right: 2px solid #75bd29;
+border-left:none;
+}
+.info{
+padding: 5px 10px 5px;
+}
+.float-container{
+overflow:hidden;
+}
+.gallery_title{
+text-align: right;
+border-right: 4px solid #19beb6;
+border-left: none;
+padding-right: 15px;
+}
+.contact_right{
+text-align: justify;
+direction: rtl;
+}
+.contact_left{
+float:right;
+}
+textarea,input:not([type="email"]){
+text-align:right;
+}
+.contact_info{
+text-align: left;
+direction: ltr;
+font-family: 'Open Sans', sans-serif;
+}
+.socialRtl{
+text-align:left;
+}
+/*
+### template name : accord
+### version : 1.0
+### relase date : 05/may/2017
+*/

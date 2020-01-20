@@ -1,0 +1,20 @@
+@import url("fonts.css");
+body{
+font-family:codeboxFA;
+direction:rtl;
+letter-spacing:unset
+}
+.tm-nav-item{
+float:right !important;
+}
+.tm-team-description-container{
+text-align: justify;
+}
+.tm-footer{
+font-family:'Open Sans', Helvetica, Arial, sans-serif;
+}
+/*
+### template name : elevate
+### version : 1.0
+### relase date : 04/may/2017
+*/

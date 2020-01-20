@@ -1,0 +1,11 @@
+@font-face{
+font-family:'codeboxFA';
+src:
+url('fonts/codeboxFA.eot') format('eot');
+src:
+url('fonts/codeboxFA.eot?#iefix') format('embedded-opentype'),
+url('fonts/codeboxFA.ttf') format('truetype'),
+url('fonts/codeboxFA.otf') format('otf'),
+url('fonts/codeboxFA.woff') format('woff'),
+url('fonts/codeboxFA.woff2') format('woff2');
+}

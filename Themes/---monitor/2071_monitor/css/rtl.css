@@ -1,0 +1,107 @@
+@import url("fonts.css");
+body,h1,h2,h3,h4,h5,h6,p,span,strong{
+font-family:codeboxFA;
+}
+.header_menu{
+width: 370px;
+}
+.header_menu li,
+.pagging ul li{
+float: right;
+}
+.service_list,
+.comment_list,
+#comment_form{
+float: right;
+direction: rtl;
+text-align: justify;
+}
+.col_4{
+width: 150px;
+text-align: justify;
+float: right;
+direction:rtl;
+}
+.no_margin_right{
+margin-right: 50px !important;
+}
+.col_3{
+width: 240px;
+float: right;
+text-align: right;
+}
+h2{
+text-align: center;
+}
+.col_3 a{
+direction: rtl;
+float: right;
+margin-right: 27%;
+}
+.fix_no_margin_right{
+margin-right: 0 !important;
+direction: rtl;
+text-align: justify;
+}
+.content_mb_60 h1{
+margin-bottom: 70px;
+text-align: right;
+}
+#contact_form form label{
+float: right;
+width: 35px;
+text-align: right;
+direction: rtl;
+}
+input.more,
+a.more{
+padding-left: unset;
+background: navy;
+}
+ul.list_bullet li{
+background: none;
+margin: 0 20px 7px 0;
+list-style-type: decimal;
+}
+.testimonial_text,
+.col_3 p,
+.post p{
+direction: rtl;
+text-align: justify;
+}
+.staffRtl{
+text-align: center;
+}
+.col_3a_fix a{
+float: none;
+}
+#tooplate_sidebar,
+#tooplate_content h4{
+text-align: right;
+direction: rtl;
+}
+.sidebar_link li{
+background: none;
+}
+.pagging{
+float: none;
+margin: 0 auto;
+display: block;
+width: 300px;
+}
+.fix_col_4{
+float: right;
+width: 170px;
+}
+.commentImg{
+float: right;
+margin-left: 15px;
+}
+.floatRightRtl{
+float:right;
+}
+/*
+### template name : monitor
+### version : 1.0
+### relase date : 20/may/2017
+*/

@@ -1,0 +1,60 @@
+@import url("fonts.css");
+/*
+###########
+## FONTS ##
+###########
+*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,a
+{font-family:codeboxFA !important;
+}
+#footer{
+font-family: Tahoma, Geneva, sans-serif;
+}
+/*
+###################
+### Float Right ###
+###################
+*/
+#gallery_container li
+{float:right;}
+
+
+/*
+########################
+### Text Align Right ###
+########################
+*/
+#content{
+direction:rtl;
+text-align:justify;
+}
+
+/*
+########################
+### Text Align Center ##
+########################
+*/
+ul.navigation a{
+direction:rtl;
+text-align:center;
+}
+/*
+#############
+### Others ###
+#############
+*/
+.service_one,
+.service_two,
+.service_three,
+.service_four,
+.service_five,
+.service_six{
+background-position-x: 100% !important;
+padding-right: 30px;
+padding-left: unset !important;
+}
+/*
+### Template name : guitar
+### Version : 1.0
+### Relase date : 05/june/2017
+*/

@@ -1,0 +1,70 @@
+@import url("fonts.css");
+body,p{
+font-family: codeboxFA;
+color:#C9C9C9;
+}
+a.more{
+font-family: codeboxFA;
+}
+h2{
+color: #FF851B;
+}
+a{
+color:#fff !important;
+text-decoration:none !important;
+}
+.date{
+color:#992710;
+}
+#tooplate_header,
+#site_title h1 a,
+#site_title  p{
+-ms-transform: scalex(-1);
+-webkit-transform: scalex(-1);
+transform: scalex(-1);
+}
+#site_title h1 a
+{
+text-indent: unset;
+background: none;
+text-decoration: none;
+}
+#site_title h1 a{
+width: unset;
+height: 30px;
+}
+#site_title p{
+direction:rtl;
+}
+#site_title{
+margin: 35px 0 0 30px;
+}
+#tooplate_main{
+direction: rtl;
+text-align: justify;
+}
+p{
+font-size: 13px;
+font-size: 15px;
+line-height: 25px;
+}
+#tooplate_menu,
+#tooplate_menu ul li a
+{
+float: right;
+}
+#login_box{
+direction: rtl;
+float: left;
+}
+.title{
+font-size: 15px;
+}
+#tooplate_footer{
+font-family: Tahoma, Geneva, sans-serif;
+}
+/*
+### template name : decoration
+### version : 1.0
+### relase date : 15/may/2017
+*/

@@ -1,0 +1,116 @@
+@import url("fonts.css");
+body,p,h1,h2,h3,h4,h5,h6,a{
+font-family:codeboxFA !important;
+text-decoration:none !important;
+}
+
+/***float right***/
+.floatRightRtl,
+#tooplate_menu,
+.ddsmoothmenu ul li,
+ul.list_bullet li,
+.col_5,
+.img_fl,
+.col_25,
+.post img,
+.pagging ul li,
+#comment_form{
+float:right;
+}
+
+/***float left***/
+#social,
+.comment_content{
+float:left;
+}
+
+/***text align right***/
+h4,
+.textAlignRightRtl,
+.content_wrapper,
+p.testimonial,
+#tooplate_footer,
+.post_content,
+#tooplate_middle_content,
+.comment_content,
+#comment_form{
+direction: rtl;
+text-align: justify;
+}
+
+/***text align center***/
+#tooplate_middle_content p{
+width: auto;
+text-align: center;
+}
+
+/***box-shadow***/
+.boxShadow{
+box-shadow: 6px 4px 20px -10px #69782d;
+}
+/***other***/
+#site_title a span{
+letter-spacing: unset;
+}
+.col_3_fix{
+float: right;
+margin: 0 0px 0 40px;
+direction: rtl;
+text-align: justify;
+}
+.service_home h2 img{
+float: right;
+margin: 0 0 0 15px;
+}
+.service_home h2{
+line-height: 40px;
+font-size: 20px;
+}
+#tooplate_menu,{
+left:unset;
+right:-37px
+}
+#social{
+right:unset;
+left:0;
+}
+ul.list_bullet li{
+background: none;
+list-style-type: decimal-leading-zero;
+}
+.content_wrapper_fix{
+padding: 35px 0 0 0;
+margin-top: 12px;
+}
+.col_5{
+margin: 0 0 0 15px;
+}
+.img_fl{
+margin: 1px 0px 10px 8px;
+}
+.copyRight,
+.pagging ul
+{
+width:-moz-fit-content;
+width:-webkit-fit-content;
+width:fit-content;
+margin:0 auto;
+}
+.col_25{
+margin: 0 0px 0 20px;
+}
+.post img{
+margin-left: 15px;
+}
+#tooplate_sidebar{
+width: 180px;
+}
+#tooplate_middle_content p{
+width: auto;
+}
+
+/*
+### template name : zeytooni
+### version : 1.0
+### relase date : 28/may/2017
+*/
